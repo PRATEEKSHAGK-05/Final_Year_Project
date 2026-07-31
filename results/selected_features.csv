@@ -1,0 +1,21 @@
+Feature
+Source Port
+Destination Port
+Protocol
+Total Length of Fwd Packets
+Fwd Packet Length Max
+Fwd Packet Length Min
+Fwd Packet Length Std
+Bwd Packet Length Max
+Flow Bytes/s
+Flow IAT Min
+Bwd IAT Mean
+Bwd IAT Std
+Bwd Packets/s
+Min Packet Length
+Packet Length Mean
+Packet Length Variance
+SYN Flag Count
+Init_Win_bytes_forward
+Init_Win_bytes_backward
+Active Max
