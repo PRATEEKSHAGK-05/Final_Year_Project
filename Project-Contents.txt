@@ -1,0 +1,37 @@
+Explainanble AI  - New       - Explain fully why
+Black Box AI     - Existing  - Simple word 
+
+
+CIC-DDoS2019 Dataset - Provides real examples of normal and attack traffic for training.
+
+Jaya                 - Optimize the feature count
+
+XGBoost              - Decides Attack or Normal  (It is one of the world's most accurate machine learning algorithms.)
+
+SHAP                 - SHAP explains why it is Attack or Normal (Explainanble AI)
+
+
+
+
+Our Project Focuses on Layers:
+
+Layer 3 (Network Layer)      – IP/ICMP-based attacks - Suppose someone sends ping millions of time (Server spends all its time answering).
+
+Layer 4 (Transport Layer)    – TCP and UDP floods    - An attacker sends millions of SYN but never completes the connection.
+ 
+Layer 7 (Application Layer)  – HTTP-based attacks    - Million bots repeatedly request (GET) server keeps generating pages.
+
+
+
+Our CIC-DDoS2019 dataset contains attacks such as:
+
+SYN Flood
+UDP Flood
+HTTP Flood
+DNS Reflection
+LDAP Reflection
+MSSQL Reflection
+NetBIOS
+SSDP
+NTP
+
