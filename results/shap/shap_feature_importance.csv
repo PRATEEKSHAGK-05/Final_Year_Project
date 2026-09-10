@@ -1,0 +1,21 @@
+Feature,Mean_Absolute_SHAP
+Destination Port,2.0478783
+Protocol,0.4895919
+Active Max,0.31988898
+Packet Length Mean,0.18215393
+Total Length of Fwd Packets,0.14870517
+SYN Flag Count,0.08915337
+Bwd Packet Length Max,0.081491865
+Min Packet Length,0.045063917
+Init_Win_bytes_forward,0.043499865
+Init_Win_bytes_backward,0.041028533
+Fwd Packet Length Min,0.040930193
+Bwd IAT Std,0.040732246
+Bwd Packets/s,0.03737395
+Source Port,0.037015308
+Fwd Packet Length Std,0.034533106
+Fwd Packet Length Max,0.034142967
+Flow Bytes/s,0.024590727
+Bwd IAT Mean,0.024181804
+Packet Length Variance,0.021769525
+Flow IAT Min,0.020826954
