@@ -5,7 +5,6 @@ from xgboost import XGBClassifier
 from sklearn.metrics import f1_score
 from sklearn.model_selection import train_test_split
 
-
 class JayaFeatureSelection:
 
     def __init__(self,
@@ -217,7 +216,7 @@ class JayaFeatureSelection:
 
         best_fitness = -999999
 
-                # ---------------------------------------------------
+        # ---------------------------------------------------
         # Main Jaya Optimization Loop
         # ---------------------------------------------------
 
